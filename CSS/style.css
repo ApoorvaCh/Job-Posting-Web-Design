@@ -1,0 +1,71 @@
+
+
+h3{
+	font-size: 50px;
+    font-family: "Gabriola";
+    text-align: center;
+}
+
+a:hover{
+	
+	text-decoration:none;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+.content {
+	background-image: url("Flare.jpg");
+	background-repeat: no-repeat;
+  background-size: cover;
+  padding: 16px;
+  
+}
+
+.card:hover{
+	box-shadow: 0 0 11px rgba(33,33,33,.2);
+}
+
+#mynavbar:hover{
+	font-size: 20px;
+}
+
+
+#formgroup{
+    color:#000000;
+}
+
+hr{
+	border-top: 1px solid #ccc;
+}
+
+.inner-addon {
+  position: relative;
+}
+
+.inner-addon .glyphicon {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+
+
+
+.right-addon .glyphicon { 
+	right: 0px;
+}
+
+
+.right-addon input {
+ padding-right: 30px;
+  }
+
